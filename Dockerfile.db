@@ -1,4 +1,0 @@
-FROM mariadb:latest 
-ENV MYSQL_ROOT_PASSWORD=rootpassword 
-ENV MYSQL_DATABASE=bulletin_board
-EXPOSE 3306
